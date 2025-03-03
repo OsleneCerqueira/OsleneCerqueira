@@ -1,8 +1,9 @@
 ## Oiii 👋! Eu sou a Oslene Cerqueira, Desenvolvedora Web Full Stack!
 ### Bem vindo(a) ao meu perfil GitHub
 
-- 🔭 Atualmente estou estudando Desenvolvimento Web Full Stack
-- ⚡ Curiosidade:  Microempreendedora no ramo alimentício
+- 🔭 Desenvolvedora Web Full Stack
+
+
 <div align="center">
   <a href="https://github.com/OsleneCerqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OsleneCerqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
